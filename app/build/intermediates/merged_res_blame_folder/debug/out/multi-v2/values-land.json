@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "lk.ac.mrt.cse.dbs.simpleexpensemanager.app-mergeDebugResources-9:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/mushrafmim/.gradle/caches/transforms-3/340a3290f7ebee0cf791d94cb8aeb1f9/transformed/appcompat-v7-26.1.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/mushrafmim/.gradle/caches/transforms-3/06794084a2567c5e1d2f6673d0f56d55/transformed/design-26.1.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

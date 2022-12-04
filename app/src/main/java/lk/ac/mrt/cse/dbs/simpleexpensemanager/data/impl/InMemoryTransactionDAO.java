@@ -55,5 +55,4 @@ public class InMemoryTransactionDAO implements TransactionDAO {
         // return the last <code>limit</code> number of transaction logs
         return transactions.subList(size - limit, size);
     }
-
 }

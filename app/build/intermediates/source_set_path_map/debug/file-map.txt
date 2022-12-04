@@ -1,0 +1,14 @@
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-design-26.1.0-0 /home/mushrafmim/.gradle/caches/transforms-3/06794084a2567c5e1d2f6673d0f56d55/transformed/design-26.1.0/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-support-media-compat-26.1.0-1 /home/mushrafmim/.gradle/caches/transforms-3/0e03ec9e149d53caf1e35124a69b6998/transformed/support-media-compat-26.1.0/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-transition-26.1.0-2 /home/mushrafmim/.gradle/caches/transforms-3/1a6b7fcf21c16d26dc81b95bf70bc29b/transformed/transition-26.1.0/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-appcompat-v7-26.1.0-3 /home/mushrafmim/.gradle/caches/transforms-3/340a3290f7ebee0cf791d94cb8aeb1f9/transformed/appcompat-v7-26.1.0/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-support-compat-26.1.0-4 /home/mushrafmim/.gradle/caches/transforms-3/48c0538cafdcf213d7341ac14a7a1090/transformed/support-compat-26.1.0/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-recyclerview-v7-26.1.0-5 /home/mushrafmim/.gradle/caches/transforms-3/7dc1c7ec1c09a462193002ee85c50a08/transformed/recyclerview-v7-26.1.0/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-pngs-6 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/build/generated/res/pngs/debug
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-resValues-7 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/build/generated/res/resValues/debug
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-rs-8 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/build/generated/res/rs/debug
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-mergeDebugResources-9 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-mergeDebugResources-10 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-merged_res-11 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/build/intermediates/merged_res/debug
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-debug-12 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/src/debug/res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.app-main-13 /home/mushrafmim/AndroidStudioProjects/expense-manager/app/src/main/res
