@@ -23,6 +23,7 @@ import java.util.List;
 
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.exception.ExpenseManagerException;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.AccountDAO;
+import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.ExpensesDatabaseHelper;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.TransactionDAO;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.exception.InvalidAccountException;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Account;
@@ -133,4 +134,5 @@ public abstract class ExpenseManager implements Serializable {
      * objects will be initialized.
      */
     public abstract void setup() throws ExpenseManagerException;
+    public abstract void setup(ExpensesDatabaseHelper dbHandle) throws ExpenseManagerException;
 }
